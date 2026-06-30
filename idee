@@ -1,0 +1,21 @@
+- es geht darum, ausgehend von einem Energieniveau eine Prognose 
+  zu erstellen, welche Aktivitäten möglich sind, ohne sich zu 
+  verausgaben
+
+- das ganze ist entstanden aus "wie beurteile ich die mit einer 
+  Fitnessuhr gesammelten Daten" und erstelle daraus eine Prognose, 
+  ob die geplanten Aktivitäten pro Zeitraum meine Body Battery zu 
+  stark belasten, so dass ich am Tagesende überlastet auf der 
+  Couch einpenne
+
+- Gedanken zur Erstellung der Prognose
+
+  startwert: Ausgangswert der Body Battery im Bereich von 5 bis 100
+
+  aktivität: Verbrauchswert 
+
+  Dämpfungsfaktoren: Faktoren, die den Verbrauch verstärken oder
+             verringern
+
+  endwert:   prognostizierter Endwert der Body Battery im Bereich 
+             von 5 bis 100
